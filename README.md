@@ -45,6 +45,6 @@ Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 Join our coding community! Feel free to ask questions, discuss solutions, and share insights.
 
-- [Discussion Forum](link-to-discussion-forum)
+- [Discussion Forum](Discussion )
 
 Happy coding! 🚀
